@@ -1,1 +1,1 @@
-This project contains a program called main.py, which serves as a simple text analyzer. The program allows the user to select a text and perform its analysis (e.g., word count, word lengths, and other analyses).
+
