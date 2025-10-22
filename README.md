@@ -6,14 +6,6 @@ It also generates a simple column chart showing the frequency of word lengths.
 
 ---
 
-## Installation
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/PavlinaCp/text-analyzer.git
-cd text-analyzer
-
 No additional libraries are required (uses standard Python libraries).
 
 Usage:
@@ -31,3 +23,10 @@ liz / pass123
 
 Next, select a text by entering a number between 1 and 3.
 The program will analyze the chosen text and display statistics and a chart.
+
+## Installation
+1. Clone this repository:
+
+```bash
+git clone https://github.com/PavlinaCp/text-analyzer.git
+cd text-analyzer
